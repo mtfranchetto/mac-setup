@@ -1,0 +1,6 @@
+[user]
+	name = Mattia Franchetto
+[core]
+	editor = code --wait
+[pull]
+	rebase = false
