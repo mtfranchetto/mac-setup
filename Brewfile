@@ -37,6 +37,8 @@ cask "ngrok"
 cask "grammarly-desktop"
 cask "keepingyouawake"
 cask "pika"
+cask "telegram"
 cask "visual-studio-code"
+cask "typeit4me"
 
 mas "Patterns", id: 429449079
