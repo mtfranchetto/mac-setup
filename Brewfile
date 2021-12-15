@@ -1,5 +1,3 @@
-brew "bash"
-brew "bash-completion"
 brew "autojump"
 brew "httpie"
 brew "htop"

@@ -1,0 +1,1 @@
+cp ./dotfiles/.zshrc ~/.zshrc
