@@ -9,7 +9,7 @@ brew "node"
 brew "nvm"
 brew "tree"
 brew "thefuck"
-brew "ccat"
+brew "bat"
 
 cask "kindle"
 cask "slack"
