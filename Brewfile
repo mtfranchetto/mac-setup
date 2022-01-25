@@ -13,7 +13,7 @@ brew "bat"
 
 cask "kindle"
 cask "slack"
-cask "youtube-music"
+cask "yt-music"
 cask "alfred"
 cask "appcleaner"
 cask "iterm2"
