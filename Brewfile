@@ -10,6 +10,7 @@ brew "nvm"
 brew "tree"
 brew "thefuck"
 brew "bat"
+brew "exercism"
 
 cask "kindle"
 cask "slack"
