@@ -3,4 +3,4 @@
 [core]
 	editor = code --wait
 [pull]
-	rebase = false
+	rebase = true
